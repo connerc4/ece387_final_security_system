@@ -1,0 +1,11 @@
+	                                  Security System
+  
+  For my final project I would like to design and implement a security system with full
+  functionality. I will use a motion sensor, microphone and photoresistor in order to detect in 
+  multiple forms. For the microphone in particular, a high pass filter will be implemented to detect 
+  high pitch noises such as glass breaking. Once one of sensors detects something, an alarm will go 
+  off using a speaker and LEDs will begin to flash. Once an alarm has been triggered, the user has 
+  three attempts to input the correct passcode into a keypad. An LCD will display all of the button 
+  that are being pressed. If the user is not able to correctly input the passcode, then red and blue 
+  LEDs will begin to flash and spin on a motor to indicate that the police have been alerted. The police 
+  functionality will be implemented using SPI connection to a second processor. 
